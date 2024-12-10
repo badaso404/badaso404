@@ -2,15 +2,14 @@
 # <summary><strong>Hi i'm Bagas Pratama :wave:</strong></summary>
 Open To Work.
 
-<p>
+<p >
     - :boy: I’m currently learning to be software developer professional. </br>
     - :pen: Studied System Information at the Binus University. </br>
-    - :mailbox: How to reach me: <a href="https://badaso404.github.io/bgsporto.github.io/">My website!</a>  </br>
+    - :mailbox: How to reach me: <a href="https://badaso404.github.io/bgsporto.github.io/">My website!</a> </br>
     - :game_die: Football and Gaming are part of me. </br>
-    - :speech_balloon: I’m currently learning about golang and svelte. </br>
-<p>
- 
+    - :speech_balloon: I’m currently learning about golang and svelte. 
 
+</p>
 
 ## <summary><strong>:computer: Tools:</strong></summary>
 <p>
@@ -22,8 +21,11 @@ Open To Work.
   <img src="https://img.shields.io/badge/laravel-EC1C24?style=for-the-badge&logo=laravel&labelColor=black" alt="badge" width="85">
   <img src="https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&labelColor=black" alt="badge" width="85">
   <img src="https://img.shields.io/badge/react%20native-61DBFB?style=for-the-badge&logo=react&labelColor=black" alt="badge" width="120">
-</p>
 
+</p>
+<p align="start">
+ <img alt="right" height=550 width=650 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+</p>
 
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://www.linkedin.com/in/bagas-pratama-9b6865208/">
@@ -41,6 +43,8 @@ Open To Work.
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=BagasPratama&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 </p>
+
+      
 
 
 
