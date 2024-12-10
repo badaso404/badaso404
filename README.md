@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, i'm Bagas Pratama,👋
 
 # <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
 Lifelong Learner, currently working as budagh kompeni.
@@ -13,10 +13,10 @@ Lifelong Learner, currently working as budagh kompeni.
 ### <summary><strong>Yosh!</strong></summary>
 <p>
     - :keyboard: I’m currently learning be software developer. </br>
-    - :speech_balloon: Ask me about anything.</br>
+    - :speech_balloon: I'm fresh graduated as associate degree and would like to have the opportunity to work as a front end and mobile developer. i already have about one years of experience in these two sections with front and developer and mobile developer, and then one years in game developer. My personality is easy to adapt to anyone, hardworking, and responsible. more details can be seen below, greetings from me to the readers.
+</br>
     - :mailbox: How to reach me: <a href="bgsprtm56@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
+    - :game_die: Football and Gaming are part of me. </br>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
