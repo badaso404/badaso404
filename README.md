@@ -4,6 +4,10 @@ Open To Work.
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
+    ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+</p>
+<p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
