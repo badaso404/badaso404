@@ -2,8 +2,6 @@
 
 # <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
 Open To Work.
-<p align="left"> <img src="https://badaso404.github.io/bgsporto.github.io/&label=Profile%20views&color=0e75b6&style=flat" alt="Bgsprtm" />
-</p>
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
