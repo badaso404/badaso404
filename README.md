@@ -2,7 +2,8 @@
 # <summary><strong>Hi there :wave: , i'm Bagas Pratama</strong></summary>
 Open To Work.
  <p>
-    ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
+    <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
 
 </p>
 ### <summary><strong>Tools:</strong></summary>
