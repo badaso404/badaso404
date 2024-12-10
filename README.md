@@ -1,6 +1,5 @@
-## Hi there, i'm Bagas Pratama,👋
 
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
+# <summary><strong>Hi there :wave: , i'm Bagas Pratama</strong></summary>
 Open To Work.
 
 ### <summary><strong>Tools:</strong></summary>
@@ -10,8 +9,8 @@ Open To Work.
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning be software developer. </br>
-    - :speech_balloon: I'm fresh graduated as associate degree and would like to have the opportunity to work as a front end and mobile developer. i already have about one years of experience in these two sections with front and developer and mobile developer, and then one years in game developer. My personality is easy to adapt to anyone, hardworking, and responsible. more details can be seen below, greetings from me to the readers.
+    - :keyboard: I’m currently learning be software developer professional. </br>
+    - :speech_balloon: I'm fresh graduated as associate degree and would like to have the opportunity to work as a front end and mobile developer.My personality is easy to adapt to anyone, hardworking, and responsible. more details can be seen below, greetings from me to the readers.
 </br>
     - :mailbox: How to reach me: <a href="bgsprtm56@gmail.com">Email me!</a>  </br>
     - :game_die: Football and Gaming are part of me. </br>
