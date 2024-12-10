@@ -12,7 +12,7 @@ Open To Work.
  
 
 
-#  <summary><strong>:computer: Tools:</strong></summary>
+## <summary><strong>:computer: Tools:</strong></summary>
 <p>
   <img src="https://img.shields.io/badge/Js-%23ECD53F?style=for-the-badge&logo=javascript&labelColor=black" alt="badge" width="55">
   <img src="https://img.shields.io/badge/PHP-%233B66BC?style=for-the-badge&logo=php&labelColor=black" alt="badge" width="65">
@@ -37,11 +37,7 @@ Open To Work.
 </a>
 </br>
 
-### Statistik GitHub Saya 📊
-![GitHub followers](https://img.shields.io/github/followers/bagaspratama?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/bagaspratama/bagaspratama?label=Stars&style=social) </br>
-
-
+### <summary><strong>Statistik GitHub Saya 📊</strong></summary>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=BagasPratama&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 </p>
