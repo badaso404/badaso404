@@ -11,7 +11,7 @@ Open To Work.
 
 </p>
 
-## <summary><strong>:computer: Tools:</strong></summary>
+## <summary><strong> Tools :computer:</strong></summary>
 <p>
   <img src="https://img.shields.io/badge/Js-%23ECD53F?style=for-the-badge&logo=javascript&labelColor=black" alt="badge" width="55">
   <img src="https://img.shields.io/badge/PHP-%233B66BC?style=for-the-badge&logo=php&labelColor=black" alt="badge" width="65">
@@ -27,7 +27,7 @@ Open To Work.
  <img alt="right" height=550 width=650 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 </p>
 
-### <summary><strong>Let's connect!</strong></summary>
+### <summary><strong>Let's connect! 🤝</strong></summary>
 <a href="https://www.linkedin.com/in/bagas-pratama-9b6865208/">
   <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
@@ -39,10 +39,6 @@ Open To Work.
 </a>
 </br>
 
-### <summary><strong>Statistik GitHub Saya 📊</strong></summary>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=BagasPratama&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-</p>
 
       
 
