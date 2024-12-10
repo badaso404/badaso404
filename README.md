@@ -1,26 +1,30 @@
 
-# <summary><strong>Hi there :wave: , i'm Bagas Pratama</strong></summary>
+# <summary><strong>Hi i'm Bagas Pratama :wave:</strong></summary>
 Open To Work.
 
 <p>
-    <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript" />
-</p>
-
-<summary><strong>Tools:</strong></summary>
-
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
-
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning be software developer professional. </br>
-    - :speech_balloon: I'm fresh graduated as associate degree and would like to have the opportunity to work as a front end and mobile developer.My personality is easy to adapt to anyone, hardworking, and responsible. more details can be seen below, greetings from me to the readers.
-</br>
-    - :mailbox: How to reach me: <a href="bgsprtm56@gmail.com">Email me!</a>  </br>
+    - :boy: I’m currently learning to be software developer professional. </br>
+    - :pen: Studied System Information at the Binus University. </br>
+    - :mailbox: How to reach me: <a href="https://badaso404.github.io/bgsporto.github.io/">My website!</a>  </br>
     - :game_die: Football and Gaming are part of me. </br>
+    - :speech_balloon: I’m currently learning about golang and svelte. </br>
 <p>
  
+
+
+#  <summary><strong>:computer: Tools:</strong></summary>
+<p>
+  <img src="https://img.shields.io/badge/Js-%23ECD53F?style=for-the-badge&logo=javascript&labelColor=black" alt="badge" width="55">
+  <img src="https://img.shields.io/badge/PHP-%233B66BC?style=for-the-badge&logo=php&labelColor=black" alt="badge" width="65">
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&labelColor=black" alt="badge" width="75">
+  <img src="https://img.shields.io/badge/Vue-68BC71?style=for-the-badge&logo=Vue.js&labelColor=black" alt="badge" width="65">
+  <img src="https://img.shields.io/badge/Next-%23006600?style=for-the-badge&logo=next.js&labelColor=black" alt="badge" width="75">
+  <img src="https://img.shields.io/badge/laravel-EC1C24?style=for-the-badge&logo=laravel&labelColor=black" alt="badge" width="85">
+  <img src="https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&labelColor=black" alt="badge" width="85">
+  <img src="https://img.shields.io/badge/react%20native-61DBFB?style=for-the-badge&logo=react&labelColor=black" alt="badge" width="120">
+</p>
+
+
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://www.linkedin.com/in/bagas-pratama-9b6865208/">
   <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
@@ -31,6 +35,17 @@ Open To Work.
 <a href="https://badaso404.github.io/bgsporto.github.io/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
+</br>
+
+### Statistik GitHub Saya 📊
+![GitHub followers](https://img.shields.io/github/followers/bagaspratama?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/bagaspratama/bagaspratama?label=Stars&style=social) </br>
+
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=BagasPratama&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+</p>
+
 
 
 
