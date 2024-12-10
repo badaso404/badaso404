@@ -1,12 +1,12 @@
 
 # <summary><strong>Hi there :wave: , i'm Bagas Pratama</strong></summary>
 Open To Work.
- <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
 
+<p>
+    <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript" />
 </p>
-### <summary><strong>Tools:</strong></summary>
+
+<summary><strong>Tools:</strong></summary>
 
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
@@ -31,4 +31,10 @@ Open To Work.
 <a href="https://badaso404.github.io/bgsporto.github.io/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
+
+</p>
 
