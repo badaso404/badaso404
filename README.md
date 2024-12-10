@@ -23,7 +23,7 @@ Open To Work.
   <img src="https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&labelColor=black" alt="badge" width="85">
   <img src="https://img.shields.io/badge/react%20native-61DBFB?style=for-the-badge&logo=react&labelColor=black" alt="badge" width="120">
 </p>
-
+a
 
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://www.linkedin.com/in/bagas-pratama-9b6865208/">
