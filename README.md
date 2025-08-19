@@ -5,8 +5,8 @@ Open To Work.
 <p >
     - :boy: I’m currently learning to be software developer professional. </br>
     - :pen: Studied System Information at the Sebelas Maret Uneversity and I extended my studies at binus university . </br>
-    - :mailbox: How to reach me: <a href="https://badaso404.github.io/bgsporto.github.io/">My website!</a> </br>
-    - :game_die: Football and Gaming are part of me. </br>
+    - :mailbox: How to reach me: <a href="https://my-porto-awos.vercel.app/">My website!</a> </br>
+    - :game_die: Football and Gaming they are part of me. </br>
     - :speech_balloon: I’m currently learning about golang and svelte. 
 
 </p>
