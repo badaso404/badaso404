@@ -28,7 +28,10 @@ Open To Work.
 </p>
 
 ### <summary><strong>Let's connect! 🤝</strong></summary>
-[![Linkedin Badge](https://img.shields.io/badge/-Bagas%20Pratama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bagas-pratama-9b6865208/)](https://www.linkedin.com/in/bagas-pratama-9b6865208/)
+<a href="https://www.linkedin.com/in/bagas-pratama-9b6865208/">
+  <img align="left" alt="LinkedIn" width="20px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+</a>
+
 <a href="https://www.instagram.com/tas.hantu/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
