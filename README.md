@@ -30,9 +30,9 @@ Open To Work.
 ### <summary><strong>Let's connect! 🤝</strong></summary>
 [![Linkedin Badge](https://img.shields.io/badge/-Bagas%20Pratama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bagas-pratama-9b6865208/)](https://www.linkedin.com/in/bagas-pratama-9b6865208/)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/username/)](https://www.instagram.com/username/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/username/)](https://www.instagram.com/tas.hantu/)
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white&link=https://your-portfolio-link.com/)](https://your-portfolio-link.com/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white&link=https://your-portfolio-link.com/)](https://my-porto-awos.vercel.app/)
 </br>
 
 
