@@ -28,16 +28,11 @@ Open To Work.
 </p>
 
 ### <summary><strong>Let's connect! 🤝</strong></summary>
-<a href="https://www.linkedin.com/in/bagas-pratama-9b6865208/">
-  <img align="left" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-Bagas%20Pratama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bagas-pratama-9b6865208/)](https://www.linkedin.com/in/bagas-pratama-9b6865208/)
 
-<a href="https://www.instagram.com/tas.hantu/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://badaso404.github.io/bgsporto.github.io/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/username/)](https://www.instagram.com/username/)
+
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white&link=https://your-portfolio-link.com/)](https://your-portfolio-link.com/)
 </br>
 
 
