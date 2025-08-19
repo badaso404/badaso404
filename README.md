@@ -28,8 +28,8 @@ Open To Work.
 </p>
 
 ### <summary><strong>Let's connect! 🤝</strong></summary>
-<a href="https://www.linkedin.com/in/bagas-pratama-9b6865208/">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+<a href="https://www.linkedin.com/in/bagas-pratama-9b6865208/" target="_blank">
+  <i class="fab fa-linkedin fa-lg" style="color:#0A66C2;"></i>
 </a>
 <a href="https://www.instagram.com/tas.hantu/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
