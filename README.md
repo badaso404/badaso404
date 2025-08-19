@@ -29,7 +29,7 @@ Open To Work.
 
 ### <summary><strong>Let's connect! 🤝</strong></summary>
 <a href="https://www.linkedin.com/in/bagas-pratama-9b6865208/">
-  <img align="left" alt="LinkedIn" width="20px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+  <img align="left" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
 <a href="https://www.instagram.com/tas.hantu/">
